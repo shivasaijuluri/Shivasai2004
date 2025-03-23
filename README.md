@@ -13,8 +13,6 @@ I'm a passionate tech enthusiast with experience in Web Development, AI, Machine
 
 📫 How to reach me: **shivasaijuluri2004@gmail.com**
 
-⚡ Fun fact: I enjoy solving puzzles, watching thriller movies, and spotting plot twists before they unfold!
-
 ---
 
 ## 🛠️ Skills & Tools
@@ -26,10 +24,6 @@ I'm a passionate tech enthusiast with experience in Web Development, AI, Machine
 
 ---
 
-## 📊 My Stats (Optional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaSai-Juluri&show_icons=true&theme=radical)
-
----
 
 ## 🤝 Let's Connect!
 I'm always open to collaborations, discussions, and exciting projects. Let's build something amazing together!
